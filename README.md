@@ -91,3 +91,9 @@ Run Script:
 ```bash
 pyhton main.py
 ```
+---
+
+## ⚙️ Penjelasan Konfigurasi
+
+- ```.env``` : Berisi informasi rahasia Anda (Login, Password, API Key). Jangan pernah bagikan file ini.
+- ```config.json```: Berisi pengaturan strategi trading Anda (Symbol, Lot, Mode, Target Profit). Anda bisa mengubahnya langsung di file ini atau melalui menu interaktif di dalam bot.
