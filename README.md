@@ -49,6 +49,10 @@ cd bot_tradeMT5
 ```bash
 pip install requirements.txt
 ```
+or
+```
+pip3 install -r requirements.txt
+```
 
 ---
 
