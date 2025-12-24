@@ -1,4 +1,4 @@
-# AutoCompoundEA-MT5 🚀
+# AutoTrade-MT4/5 🚀
 
 ---
 
@@ -26,7 +26,7 @@ sudo apt update && sudo apt upgrade -y
 ### Step 2: Clone the Bot Repository
 
 ```bash
-git clone https://github.com/0xdoot/Merak-Dubhe-Tesnet-Bot.git
+git clone https://github.com/Gizmocryp/bot_tradeMT5.git
 cd bot_tradeMT5
 ```
 
