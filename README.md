@@ -1,3 +1,3 @@
 # Testing
 
-still needs improvement and will be updated periodically
+Will be updated periodically
